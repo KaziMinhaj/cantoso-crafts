@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tBC7XZgXSkFF/u9YtXijj4oyieGMyBbStmQGZdleaCw=",
+  "Hash": "82z+XOwPazx7n0MLxKRThVtjXr6nZ5/9WvBCL58s3tE=",
   "Source": "CantosoCrafts.Website",
   "BasePath": "_content/CantosoCrafts.Website",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\KaziMinhaj\\source\\repos\\CantosoCrafts.Website\\wwwroot\\data\\Products.json",
+      "SourceId": "CantosoCrafts.Website",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\KaziMinhaj\\source\\repos\\CantosoCrafts.Website\\wwwroot\\",
+      "BasePath": "_content/CantosoCrafts.Website",
+      "RelativePath": "data/Products.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\data\\Products.json"
     },
     {
       "Identity": "C:\\Users\\KaziMinhaj\\source\\repos\\CantosoCrafts.Website\\wwwroot\\favicon.ico",
